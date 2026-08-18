@@ -7,7 +7,9 @@ https://orchardforex.com/ic
 
 <!-- END_HEADER -->
 
-A series of helper functions to make it easier when dealing with profit and loss in opposite directions with buy and sell trades.<!-- START_FOOTER -->
+A series of helper functions to make it easier when dealing with profit and loss in opposite directions with buy and sell trades.
+
+<!-- START_FOOTER -->
 ### Warning
 
 This is not to be used for live trading
